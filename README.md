@@ -51,3 +51,11 @@ I will be starting with an application which runs very slowly.  This inefficienc
 ##### My impression of how this compares to what I expect in the field.
 
 I believe this could be an average sized database. I also feel it would pale in comparison to databases running things like Facebook.
+
+
+# Tuesday Homework
+
+### Time Estimate
+
+* Pre-work estimate - 5 hours.
+* Post-work result - 

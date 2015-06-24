@@ -1,0 +1,14 @@
+<h1>Welcome to the Gene Machine</h1>
+<p>Data from this database takes a while to generate, if you would like,
+  you can enter an email address and the name of the data you want to access and
+  the data will be sent to you after it is generated.
+</p>
+
+<h4>There are 100 available names to chose from, starting at a1 and going to a100</h4>
+
+<%= form_tag welcome_thank_you_path do %>
+  <%= text_field_tag "email", nil, placeholder: "Email" %>
+  <%= text_field_tag "name", nil, placeholder: "Assembly Name" %>
+
+  <%= submit_tag %>
+<% end %>
