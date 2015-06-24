@@ -58,4 +58,4 @@ I believe this could be an average sized database. I also feel it would pale in 
 ### Time Estimate
 
 * Pre-work estimate - 5 hours.
-* Post-work result - 
+* Post-work result - 6 hours.
